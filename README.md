@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dishantzaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishantzaveri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dishant-zaveri-4301471b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dishant-zaveri-4301471b9" target="https://www.linkedin.com/in/dishant-zaveri-4301471b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
 <a href="https://instagram.com/dishant_zaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_zaveri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/zaveridishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/zaveridishant" height="30" width="40" /></a>
 </p>
