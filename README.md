@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @dishantzaveri</h1>
+<h1 align="center">Hi 👋, I'm Dishant Zaveri</h1>
 <h3 align="center">A passionate Web Developer(Mainly Backend) and App Developer(Flutter and Kotlin) from India</h3>
 
 - 🔭 I’m currently working on **App Development**
